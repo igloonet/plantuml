@@ -14,80 +14,80 @@ skinparam SequenceGroupBorderColor 454645
 skinparam SequenceGroupBorderThickness 1
 
 skinparam sequenceDivider {
-    BorderColor 454645
-    BorderThickness 1
-    FontColor 454645
+        BorderColor 454645
+        BorderThickness 1
+        FontColor 454645
 }
 
 skinparam participant {
-    BackgroundColor FF6F61
-    BorderColor FF6F61
-    FontColor White
+        BackgroundColor FF6F61
+        BorderColor FF6F61
+        FontColor White
 }
 
 skinparam database {
-    BackgroundColor 98DDDE
-    BorderColor 454645
-    FontColor 454645
+        BackgroundColor 98DDDE
+        BorderColor 454645
+        FontColor 454645
 }
 
 skinparam entity {
-    BackgroundColor FFDA29
-    BorderColor 454645
-    FontColor 454645
+        BackgroundColor FFDA29
+        BorderColor 454645
+        FontColor 454645
 }
 
 skinparam note {
-    BackgroundColor LightGreen
-    BorderColor LightGreen
-    FontColor 454645
+        BackgroundColor LightGreen
+        BorderColor LightGreen
+        FontColor 454645
 }
 
 skinparam actor {
-    BackgroundColor 454645
-    BorderColor 454645
-    FontColor 454645
+        BackgroundColor 454645
+        BorderColor 454645
+        FontColor 454645
 }
 
 skinparam boundary {
-    BackgroundColor FFDA29
-    BorderColor 454645
-    FontColor 454645
+        BackgroundColor FFDA29
+        BorderColor 454645
+        FontColor 454645
 }
 
 skinparam control {
-    BackgroundColor FFDA29
-    BorderColor 454645
-    FontColor 454645
+        BackgroundColor FFDA29
+        BorderColor 454645
+        FontColor 454645
 }
 
 skinparam collections {
-    BackgroundColor FF6F61
-    BorderColor 454645
-    FontColor 454645
-}
-
-skinparam agent {
-    BackgroundColor FF6F61
-    BorderColor 454645
-    FontColor 454645
-}
-
-skinparam rectangle {
-    BackgroundColor FFDA29
-    BorderColor 454645
-    FontColor 454645
-}
-
-skinparam entity {
-    BackgroundColor FFDA29
-    BorderColor 454645
-    FontColor 454645
+        BackgroundColor FF6F61
+        BorderColor 454645
+        FontColor 454645
 }
 
 <style>
 .Alt {
         LineStyle 4
         LineColor black
+}
+
+agent {
+        BackgroundColor FF6F61
+        BorderColor 454645
+        FontColor 454645
+}
+
+rectangle {
+        BackgroundColor FFDA29
+        BorderColor 454645
+        FontColor 454645
+}
+
+entity {
+        BackgroundColor FFDA29
+        BorderColor 454645
+        FontColor 454645
 }
 </style>
